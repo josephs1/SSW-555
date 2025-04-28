@@ -1,0 +1,13 @@
+alice@Alices-MacBook-Pro assignment_3-Practice_Refactoring % python3 bank_system_unit_test.py
+test_deposit_money_into_checking (__main__.TestBankingOperations.test_deposit_money_into_checking) ... ok
+test_deposit_money_into_savings (__main__.TestBankingOperations.test_deposit_money_into_savings) ... ok
+test_transfer_money_from_checking_to_another_account (__main__.TestBankingOperations.test_transfer_money_from_checking_to_another_account) ... ok
+test_view_account_balances (__main__.TestBankingOperations.test_view_account_balances) ... ok
+test_withdraw_money_from_checking (__main__.TestBankingOperations.test_withdraw_money_from_checking) ... ok
+test_withdraw_money_from_savings (__main__.TestBankingOperations.test_withdraw_money_from_savings) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
+
